@@ -1,4 +1,3 @@
-# Payments App
+# Paytm End-to-End Digital Wallet (Fullstack Architecture)
 
-This is a very cool payments app.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87dcf41a-2db1-43f7-92b7-677401734288" />
+A high-throughput, ACID-compliant peer-to-peer (P2P) payment orchestration engine built on the MERN stack. Designed to handle stateful financial balances, idempotent transactions, and authenticated RESTful services with strict input sanitation.
